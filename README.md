@@ -1,2 +1,2 @@
 # testrepo
-Just for Exploring Github
+IBM Git & Github course 
